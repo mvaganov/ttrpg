@@ -11,19 +11,20 @@
 ### Effect
 **Range** personal, see text
 **Target** a pebble, tablet, or other small rigid and inanimate object
-**Duration** 1 hour per level (D)
+**Duration** 1 hour per caster level (D)
 ### Description
-An Arudion is a rigid non-metal inanimate object (a pebble, piece of wood, stiff paper, ...), and imbued with a shadow of life, which is enslaved into the rigid medium by magically etched gold runes (the gold provided by the gold coin). The Arudion is programmed by these runes during casting. It can be programmed to respond to simple input with magical effects. implementing these effects costs additional resources:
+An Arudion is a rigid non-metal inanimate object (a pebble, piece of wood, stiff paper, ...), imbued with a shadow of life, which is enslaved into the rigid medium by magically etched gold runes. The Arudion is programmed by these runes during casting.
+A programmed Arudion can activated with a carefully worded contingency. Easily programmed contingencies include a command-word or physical pressing or swiping.
+A simple describable event can be used as a trigger, with failure chance at GM discretion. Arudions can be linked together during programming, which allows them trigger other physically linked Arudions. These triggers have a delay up to GM discretion.
+Arudion functionality can be augmented by including additional resources when crafting the spell:
 
 * emit light (as light cantrip) (requires a gem valued at 5gp or more)
 * emit sound (as ghost sound) (requires an additional gold coin)
 * vibrate gently in specific patterns (requires an additional gold coin)
-* ability to link to other Arudions (requires an additional gold coin)
+* ability to link to other Arudions with a wire or string (requires an additional gold coin)
+* wireless link (5gp gem: short range link (25ft + 2ft per 2 casterlevels), 25gp gem: medium range link (100ft + 10ft per caster level), 100gp gem: long range link (400ft + 40ft per level)). The wireless signal that communicates between Arudions can be blocked by a metal box, and could fail if many other Arudions are messaging each other simultaneously, at the discretion of the GM. 
 
-A programmed Arudion can activated with a carefully worded contingency. Easily programmed contingencies include a command-word or physical pressing or swiping.
-A simple describable event can be used as a trigger with GM discretion. Arudions can be linked together during programming, which allows them trigger other linked Arudions. Linked Arudions can trigger each other without fail in line-of-sight, or at 1 mile per caster level. The signal that communicates between Arudions can be blocked by a metal box, and could fail if many other Arudions are messaging each other simultaneously, at the discretion of the GM. An Arudion can be made permanent with Permenancy.
-
-An Arudion whose duration has expired can optionally be able to have it's duration restarted by casting Lesser Arudion into the expired Arudion, ignoring the gold-piece material component.
+A finished Arudion made of minimal materials has 1 hitpoint, and ceases to function after it loses that hitpoint from damage. An Arudion can be made permanent with Permenancy. An expired (but not destroyed or broken) Arudion whose duration has finished can have it's duration restarted by casting Lesser Arudion into it, ignoring material component costs.
 
 ---
 ## Analyze Spell Cast
@@ -79,7 +80,7 @@ This spell allows the caster to share control of a spell to up to 1 + lvl/3 othe
 **Duration** 1 hour per caster level
 **Saving Throw** none; **Spell Resistance** no
 ### Description
-The caster creates multiple mage hands, which persist without concentration, though they will wink out of existence if the caster moves beyond the spell range or falls unconscious. Each hand can be moved manually, one hand per round, as a normal magehand. In addition, each hand can be automated to do repetative motions that the caster is practiced at doing, and trusted to do those tasks exactly as the caster would do them, as if controlled directly with no sensory feedback. Automated hands are not coordinated enough to make an attack, but could easily be used to assist in holding objects still, be set in motion to trigger a trap, or perform other repetative manual tasks like scrubbing or simple craft work. If used for crafting, this spell can circumstantially add up to +1 to the craft check for every 3 caster levels (max +5) as an aid-another bonus (does not stack with other sources of aid another).
+The caster creates multiple mage hands, which persist without concentration, though they will wink out of existence if the caster moves beyond the spell range or falls unconscious. Each hand can be moved manually, one hand per round, as a normal magehand. In addition, each hand can be automated to do repetative motions that the caster is practiced at doing, and trusted to do those tasks exactly as the caster would do them, as if controlled directly with no sensory feedback. Automated hands are not coordinated enough to make an attack, but could easily be used to assist in holding objects still, be set in motion to trigger a trap, or perform other repetative manual tasks like scrubbing or simple repetative craft work. If used for crafting, this spell can circumstantially add up to +1 to the craft check for every 3 caster levels (max +6) as an aid-another assistance bonus (does not stack with other sources of aid another).
 
 ---
 ## Arudion
@@ -90,10 +91,12 @@ The caster creates multiple mage hands, which persist without concentration, tho
 ### Effect
 **Range** personal, see text
 **Target** a pebble, tablet, or other small rigid and inanimate object
-**Duration** 1 hour per level (D)
+**Duration** 1 hour per caster level (D)
 ### Description
 As Lesser Arudion, with the following additions:
-* Linked range is 100 miles per caster level. (requires a gem valued at 15gp or more)
+* If minimal in size: 5 hitpoints
+* Can be made permanent as if it were a level 1 spell
+* Linked range augmentation from the Lesser Arudion, typically measured in feet, is measured in miles instead.
 * The Adurion can be triggered by a visible gesture (within line of sight) without fail (requires an additional gold coin)
 * The Arudion can be programmed to press itself with the force of a mage hand, allowing it to move (roll or slide) under its own power at 15 feet per round, as long as that motion would not cause the Arudion to levitate. A linked Arudion triggered from a distance can only apply 1 lb of force once per round, or roll the Arudion at 5ft per round. (requires a gem valued at 25gp or more)
 * A linked Arudion can hear, poorly, through another Arudion (add +5 circumstance penalty to hear through linked Arudions) (requires a gem valued at 25gp or more)
@@ -223,6 +226,21 @@ Reality Obfuscation enchants a subject, an area (5ft-per-level radius sphere) or
 The caster can channel senses (sight/sound/smell) through plants, and jump a sensor from plant to plant, using physically connected roots or foliage in line of sight. The travelling sensor can move along plants at 1km per level per round, 1m per level per round, or 1 cm per level per round. Perception DCs increased by +1 per 100*casterlevel meters.
 
 ---
+## Change Race, Minor
+**School** Transmutation; **Level** druid 6
+### Casting
+**Casting Time** 1 minute
+**Components** V, S, M (500 gp diamond dust) (D)
+### Effect
+**Range** touch
+**Target** one friendly creature
+**Save** Fortitude partial
+**Spell Resistance** Yes
+**Duration** days per caster level
+### Description
+The caster starts a biological process that morphs the target into a different sub-race of their same species, which takes 1 hour to complete. After the spell's duration, the target spends 1 hour involuntarily morphing back into their original form. This spell can instead be made permanent with a permanency spell. The target loses any racial bonuses and penalties of their old race, and gains racial penalties and bonuses of their new race. Age is transfered biologically proportional rather chronologically proportional. If the target attempts a fortitude save against the spell and succeeds, they are nauseated for one round. This spell can also be used to change the target into a yet-unknown subrace, with a skin color of choice, as well as other cosmetic differences (non cosmetic racial traits must be validated with the game master). Durable cosmetic changes (like different eye/nose/ear shape, hair type, body shape) can be used to give a +5 to disguise checks.
+
+---
 ## Change Race, Lesser
 **School** Transmutation; **Level** druid 7
 ### Casting
@@ -265,7 +283,7 @@ As Lesser Change Race, except it can be cast without sample blood/essance, which
 **Duration** instantaneous
 **Spell Resistance** Yes
 ### Description
-Instantly and permanently transform target into a new race, as Change Race. If the target attempts a fortitude save against the spell and succeeds, they are nauseated for one round.
+Instantly and permanently transform target into a new race, as Change Race. If the target attempts a fortitude save against the spell and succeeds, they are instead nauseated for one round.
 
 ---
 <img src="https://i.pinimg.com/originals/7c/6e/39/7c6e3974066ca94616b8612c4941e765.png">
@@ -294,7 +312,7 @@ Learn the motions and simple command words used by the last expert user of a mag
 **Target** a creature
 **Duration** 1 hour per level or until discharged (D)
 ### Description
-Discharge as a free action to reroll the next d20 rolled by the target if you don't like the result of the dice roll. Will save negates. 100gp diamond dust.
+Discharge as a free action to reroll the next d20 rolled by the target if you don't like the result of the dice roll. Will save negates.
 
 ---
 ## Tarot Reading
@@ -305,7 +323,7 @@ Discharge as a free action to reroll the next d20 rolled by the target if you do
 ### Effect
 **Range** personal
 ### Description
-The casting player does a Tarot reading, with any kind of card deck, pulling and describing a number of cards, which may or may not be accurate. Each card reading costs a certain number of points, and once the point total reaches the caster's Caster Level, the spell ends. After each card is displayed, the player says one sentence (subject, verb) and the DM decides whether the reading was Totally Accurate (cost 0), Mostly Accurate (cost 1), Some Accuracy but mostly not (cost 2), or Innacurate (cost 3). The DM tells the casting player which ratings is given to each card reading. Each card read takes at least one full round. This spell is ancient, of extra-planar origin.
+The casting player does a Tarot reading, with any kind of card deck, pulling and describing a number of cards, which may or may not be accurate. Each card reading costs a certain number of points, and once the point total reaches the caster's Caster Level, the spell ends. After each card is displayed, the player says one sentence (subject, verb) and the DM decides whether the reading was Totally Accurate (cost 0), Mostly Accurate (cost 1), Some Accuracy but mostly not (cost 2), or Innacurate (cost 3). The DM tells the casting player which ratings is given to each card reading. Each card read takes at least one full round.
 
 ---
 ## Arudion, Greater
@@ -319,10 +337,13 @@ The casting player does a Tarot reading, with any kind of card deck, pulling and
 **Duration** 1 day per level (D)
 ### Description
 As Arudion, with the following additions:
+* If minimal in size: AC 24, 10 hitpoints, hardness 5
 * Duration is days per level
-* Linked Arudion communication works at any distance, even across planes. (requires a gem valued at 500gp or more)
-* Hearing through linked Arudions has no penalty  (requires a gem valued at 500gp or more)
+* Can be made permanent as if it were a level 1 spell
+* Linked Arudion communication works at any distance (requires a gem valued at least 500gp), or across planes (required a gem valued at least 1000gp)
+* Hearing through linked Arudions has no penalty (requires a gem valued at 500gp or more)
 * Seeing through linked Arudions includes color, is limited to 30ft, and has a +5 circumstance penalty to perception DCs. (requires a gem valued at 500gp or more)
+* The Arudion, if minimal in size, can hover or fly, as though by mage hand, like an Ioun stone (10gp if magically tethered to a sentient creature, 50gp if magically tethered to some other magical focus, 500gp without tethering as if by mage hand). A flying or hovering Arudion cannot support more than it's own weight.
 
 ---
 ## Extra Dimensional Simulation
@@ -335,7 +356,7 @@ As Arudion, with the following additions:
 **Target** self or single ally
 **Duration** 1 hour per level or until used (D)
 ### Description
-Gain one 'reroll' of a d20 or d100 check for every 2 caster levels, usable for any skill check, save, attack roll, or effect. All rerolls must be used on the same check. The spell essentially creates a duplicate of the user's local reality that exists only within the mind of the user, and allows them to make several attempts of the same task. The caster can chose their desired roll after all rerolls are made.
+Gain one 'reroll' of a d20 or d100 check for every 2 caster levels, usable for any skill check, save, attack roll, or effect. All rerolls must be used on the same check. The spell essentially creates a duplicate of the user's local reality that exists only within the mind of the user, and allows them to make several attempts at the same task. The caster can chose their desired roll from all rerolls.
 
 ---
 ## Automatic Recast
@@ -361,18 +382,18 @@ As Tenacious Enigma, but can be used for any spell.
 **Target** self or ally
 **Duration** 1 day per level or until used (D)
 ### Description
-Unambiguously name an event that would require a d20 or d100 to resolve, and name the value of the roll. Between now and the next caster-level days, when/if that event happens, the roll result is as defined when this spell is cast. If the event has significant ambiguity, the desired outcome must be rhymed while the spell is being cast. Those words follow the target, and can be magically recognized by others. The dungeon master resolves effects.
+Unambiguously name an event that would require a d20 or d100 to resolve, and name the value of the roll. Between now and the next caster-level days, when/if that event happens, the roll result is as defined when this spell is cast. If the event has significant ambiguity, the desired outcome must be rhymed while the spell is being cast. Those words follow the target, and can be magically recognized by others using True Seeing, mind reading spells, or other divination intended to peer into the soul. The dungeon master resolves effects.
 
 ---
 ## Existence Shift
 **School** Transmutation; **Level** sorcerer/wizard 10
 ### Casting
-**Casting Time** 1 action
+**Casting Time** 10 minutes
 **Components** V, S, M (25,000 gp? of adamantine dust?)
 ### Effect
 **Range** unknown
 **Target** caster and up to 1 additional willing creature for every 4 caster levels
 **Duration** instantaneous or 1 hour per level (D)
 ### Description
-This spell appears to be a work in progress, with annotations indicating that the spell was re-written in a more complete form elsewhere. The spell's goal seems to be to shift the caster and one additional willing creature per 4 caster levels through reality, weaving their physical form and essence through the threads binding the planes, eventually to escape reality, and re-emerge elsewhere. Its most mundane use would allow instant travel to any location on any plane, possibly with high precision. But, it could also very easily, and accidentally, take the traveller to entirely new forms of existence. The spell could be a means to time travel, or to achieve godhood, or irretrievable abandonment deep in the dark tapestry, or a path to direct encounter with great-old-ones, but probably most likely, utter annihilation in a dark emptiness that exists beyond reach of the astral plane and the river of souls, resulting in a final and irrevocable loss of body and soul. The spell requires a teleportation circle of some kind, drawn in stiff and dense metal, but the details of the circle, including its shape and specific materials used to draw it, seem to be in a state of iteration. A careful reading of the spell indicates that travel will be more likely to succeed when the target 'location' (defined as a 6 dimensional position, x/y/z/time/fate/reality) is marked by a dramatic fate-changing event intimately known to the caster. Requires an "impossible" Knowledge Arcana or Spellcraft (DC60) to complete the spell.
+This spell appears to be a work in progress, with annotations indicating that the spell was re-written in a more complete form elsewhere. The spell's goal seems to be to shift the caster and one additional willing creature per 4 caster levels through reality, weaving their physical form and essence through the threads binding the planes, eventually to escape reality, and re-emerge elsewhere. Its most mundane use would allow instant travel to any location on any plane, possibly with high precision. But, it could also very easily, and accidentally, take the traveller to entirely new forms of existence. The spell could be a means to time travel, or to achieve godhood, or irretrievable abandonment deep in the void of the dark tapestry, or a path to direct encounter with great-old-ones, but probably most likely, utter annihilation in a dark emptiness that exists beyond reach of the astral plane and the river of souls, resulting in a final and irrevocable loss of body and soul. The spell requires a teleportation circle of some kind, drawn in stiff and dense metal, but the details of the circle, including its shape and specific materials used to draw it, seem to be in a state of iteration. A careful reading of the spell indicates that travel will be more likely to succeed when the target 'location' (defined as a 6 dimensional position, x/y/z/time/fate/reality) is marked by a dramatic fate-changing landmark event, ideally intimately known to the caster. Travelling through existance requires constant reflex and will saves (DC10), once per 10 minutes, to prevent a collapse into the void under shifting paths of existence. Successfully travelling through existence makes no guarantee that a return trip is possible, since the nature of paths to reality is inconsistent: a return trip to the exact starting point would require an observer from your reality to stand watch between the planes, to keep an eye on both the starting and ending point, surviving the constant shifting of splitting reality as they stand watch. Spirits and astral creatures are sensitive to open portals in existence, so it is wise to use this spell as descretely as possible. Requires an "impossible" Knowledge Arcana or Spellcraft (DC60) to complete the spell. 
 
