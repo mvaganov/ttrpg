@@ -7,24 +7,29 @@
 **School** Necromancy; **Level** magus 1, sorcerer/wizard 1
 ### Casting
 **Casting Time** 1 minute
-**Components** V, S, M (a small rigid non-metal and inanimate object, life-essence of a living creature like blood/sweat/tears, AND one gold coin)
+**Components** V, S, M (a small rigid non-metal and inanimate object, life-essence of a living creature like blood/sweat/tears, 1 gold coin, see text)
 ### Effect
 **Range** personal, see text
 **Target** a pebble, tablet, or other small rigid and inanimate object
 **Duration** 1 hour per caster level (D)
 ### Description
-An Arudion is a rigid non-metal inanimate object (a pebble, piece of wood, stiff paper, ...), imbued with a shadow of life, which is enslaved into the rigid medium by magically etched gold runes. The Arudion is programmed by these runes during casting.
-A programmed Arudion can activated with a carefully worded contingency. Easily programmed contingencies include a command-word or physical pressing or swiping.
-A simple describable event can be used as a trigger, with failure chance at GM discretion. Arudions can be linked together during programming, which allows them trigger other physically linked Arudions. These triggers have a delay up to GM discretion.
+An Arudion is a rigid non-metal inanimate object (a pebble, piece of wood, stiff paper, ...), imbued with a shadow of life, which is enslaved into the rigid medium by magically etched gold runes. The Arudion is enchanted to do an action, or "programmed", by these runes during casting.
+A programmed Arudion can activated with a carefully worded contingency. Easily programmed contingencies include a command-word, a physical pressing or swiping, or activation of another specific Arudion.
+A simple describable event can be used as a trigger, with failure chance at GM discretion. Arudions can be linked together during programming, which allows them trigger other physically or remotely linked Arudions up to a certain range. These triggers have a delay, or "lag", up to GM discretion.
 Arudion functionality can be augmented by including additional resources when crafting the spell:
 
-* emit light (as light cantrip) (requires a gem valued at 5gp or more)
-* emit sound (as ghost sound) (requires an additional gold coin)
-* vibrate gently in specific patterns (requires an additional gold coin)
-* ability to link to other Arudions with a wire or string (requires an additional gold coin)
-* wireless link (5gp gem: short range link (25ft + 2ft per 2 casterlevels), 25gp gem: medium range link (100ft + 10ft per caster level), 100gp gem: long range link (400ft + 40ft per level)). The wireless signal that communicates between Arudions can be blocked by a metal box, and could fail if many other Arudions are messaging each other simultaneously, at the discretion of the GM. 
+* emit light (as light cantrip) - requires a gem valued at 5gp or more. Light emitted is the color of the gem.
+* emit sound (as ghost sound) - requires an additional gold coin.
+* vibrate gently in specific patterns - requires an additional gold coin. every second of vibration reduces the duration by an additional second.
+* ability to link to other Arudions with a wire or string - requires an additional gold coin
+* wireless link - 5gp gem: short range link (25ft + 2ft per 2 casterlevels), 25gp gem: medium range link (100ft + 10ft per caster level), 100gp gem: long range link (400ft + 40ft per level). The wireless signal that communicates between Arudions can be blocked by a metal box, and could fail if many other Arudions are messaging each other simultaneously, at the discretion of the GM. The complexity of the message limits how quickly it can travel wirelessly between Arudions.
+instant - the presence or absence of *any* message from *any* Arudion can be determined instantly
+1 round - the presence or absense of a message from a specific Arudion
+1 round - transmitting the equivalent of 1 word wirelessly
+1 minute - transmitting the equivalent of 1 word wirelessly in a way that is difficult for any arudion that is not the intended recipient to detect
+Conditions may arise that add additional time cost to messaging per GM discretion.
 
-A finished Arudion made of minimal materials has 1 hitpoint, and ceases to function after it loses that hitpoint from damage. An Arudion can be made permanent with Permenancy. An expired (but not destroyed or broken) Arudion whose duration has finished can have it's duration restarted by casting Lesser Arudion into it, ignoring material component costs.
+A finished Arudion made of minimal materials has 1 hitpoint, and ceases to function after it loses that hitpoint from damage. Additional hitpoints are determined by materials used, crafting skill, and GM discretion. An Arudion can be made permanent with Permenancy. An expired (but not destroyed or broken) Arudion whose duration has finished can have it's duration restarted by casting Lesser Arudion into it, ignoring the initial material component costs.
 
 ---
 ## Analyze Spell Cast
@@ -83,25 +88,37 @@ This spell allows the caster to share control of a spell to up to 1 + lvl/3 othe
 The caster creates multiple mage hands, which persist without concentration, though they will wink out of existence if the caster moves beyond the spell range or falls unconscious. Each hand can be moved manually, one hand per round, as a normal magehand. In addition, each hand can be automated to do repetative motions that the caster is practiced at doing, and trusted to do those tasks exactly as the caster would do them, as if controlled directly with no sensory feedback. Automated hands are not coordinated enough to make an attack, but could easily be used to assist in holding objects still, be set in motion to trigger a trap, or perform other repetative manual tasks like scrubbing or simple repetative craft work. If used for crafting, this spell can circumstantially add up to +1 to the craft check for every 3 caster levels (max +6) as an aid-another assistance bonus (does not stack with other sources of aid another).
 
 ---
+
+https://www.d20pfsrd.com/magic/all-spells/a/aura-of-cannibalism
+
+---
 ## Arudion
 **School** Necromancy; **Level** bard 3, magus 3, sorcerer/wizard 3
 ### Casting
 **Casting Time** 10 minutes
-**Components** V, S, M (a small rigid non-metal and inanimate object, life-essence of a living creature, 5 gold coins, and possibly more)
+**Components** V, S, M (a small rigid non-metal and inanimate object, life-essence of a living creature, and 5 gold coins, see text)
 ### Effect
 **Range** personal, see text
 **Target** a pebble, tablet, or other small rigid and inanimate object
 **Duration** 1 hour per caster level (D)
 ### Description
 As Lesser Arudion, with the following additions:
-* If minimal in size: 5 hitpoints
+* If minimal in size: 5 hitpoints. Additional hitpoints and hardness are up to GM discretion.
 * Can be made permanent as if it were a level 1 spell
-* Linked range augmentation from the Lesser Arudion, typically measured in feet, is measured in miles instead.
+* Linked range augmentation from the Lesser Arudion, typically measured in feet, is measured in miles instead. In addition, more complex messages can be sent with additional lag:
+1 minute - a second of clearly audible sound
+10 minutes - a second of audible sound transmitted secretly
+1 hour - a simple and clear image, as if drawn by hand
+10 hours - a simple and clear image, as if drawn by hand, transmitted secretly
 * The Adurion can be triggered by a visible gesture (within line of sight) without fail (requires an additional gold coin)
-* The Arudion can be programmed to press itself with the force of a mage hand, allowing it to move (roll or slide) under its own power at 15 feet per round, as long as that motion would not cause the Arudion to levitate. A linked Arudion triggered from a distance can only apply 1 lb of force once per round, or roll the Arudion at 5ft per round. (requires a gem valued at 25gp or more)
-* A linked Arudion can hear, poorly, through another Arudion (add +5 circumstance penalty to hear through linked Arudions) (requires a gem valued at 25gp or more)
-* A linked Arudion can project hazy black-and-gray outlines on the Arudion's surface, allowing the user to 'see' through the other Arudion, poorly, with a sight range of 5ft (add a +10 circumstance penelty to see through linked Arudions). (requires a gem valued at 25gp or more)
-* Arudions can be used as a source for a scry sensor without need for a scry roll, though any obstructing magic will affect the scry as normal. (requires a gem valued at 10gp or more)
+* The Arudion can be programmed to press itself with the force of a mage hand, allowing it to move (roll or slide) under its own power at 15 feet per round, as long as that motion would not cause the Arudion to levitate. A linked Arudion triggered from a distance can only apply 1 lb of force once per round, or roll the Arudion at 5ft per round. (requires a gem valued at 25gp or more). each round of movement subtracts one round from duration.
+* A linked Arudion can hear, very poorly, in real time, through another Arudion (add +10 circumstance penalty to hear through linked Arudions) requires a gem valued at 25gp or more.
+* A linked Arudion can project hazy black-and-gray outlines on the flat surface of a gem, allowing the user to 'see' through the other Arudion, poorly, with a sight range of 5ft (add a +10 circumstance penelty to see through linked Arudions). requires a gem valued at 25gp or more.
+* Arudions can be used as a source for a scry sensor without need for a scry roll, though any obstructing magic will affect the scry as normal. requires a gem valued at 10gp or more.
+
+---
+
+https://www.d20pfsrd.com/magic/all-spells/c/contingent-action
 
 ---
 ## Detect Dimensional Wake
@@ -143,17 +160,32 @@ Area Channel uses metal Chanelling Pipes to change the shape of an area-of-effec
 Teleportation Trace allows the caster to monitor teleporations in close range for 1 minute per level, as Detect Dimensional Wake. Addtionally, the caster can scry for 1 round to the point where a teleportation has started or ended. The teleportation being analyzed needs to have happened within caster-level rounds, within the range of the spell. 
 
 ---
+## Interdiction Field
+**School** Conjuration; **Level** sorcerer/wizard 5
+### Casting
+**Casting Time** 10 minutes
+**Components** V, S, M (4ft of fine thread per ft^2 of target area)
+### Effect
+**Range** personal, touch, close (25 ft. + 5 ft./level)
+**Target** 100 ft^2 + 10 ft^2 per level
+**Duration** 1 hour per level (D)
+### Description
+Interdiction Field creates an invisible latice that blocks teleportation as the spell Dimensional Anchor. When the spell is cast, the area is identified, and strands of fine thread provided by the caster weave telekenetically into the area. Upon completion, the threads vaporize, and form barriers in adjacent planes (ethereal, shadow, astral) along the same path. For the duration of the spell, any teleportation or extra-planar travel through the Interdiction Field is halted, and the traveller is prevented from moving, or shunted to the nearest empty area on the same side of the barrier.
+
+Ordinarily the duration of the effect is one hour per level, but duration is doubled if in an area of flowing water, flowing air, metal pipes, or metal bars.
+
+---
 ## Metalshape
 **School** Transmutation; **Level** bard 6, magus 6, sorcerer/wizard 6
 ### Casting
-**Casting Time** 10 minutes
-**Components** V, S, M (a stone, coin, or other small rigid and inanimate object)
+**Casting Time** 1 action
+**Components** V, S, M/DF (soft clay)
 ### Effect
-**Range** personal, touch, close (25 ft. + 5 ft./level), medium (100 ft. + 10 ft./level), long (400 ft. + 40 ft./level)
-**Target** a pebble, tablet, or other small rigid and inanimate object
+**Range** touch
+**Target** stone or stone object touched, up to 10 cu. ft. + 1 cu. ft./level
 **Duration** instantaneous or concentration up to 10 rounds. (D)
 ### Description
-Metalshape functions as 10 consecutive rounds of stoneshape. It can also modify metal by dividing the amount shaped by 10. The spell can create fine details, including fine moving parts, contingent on an appropriate craft check (blacksmithing, sculpture, stonework, clockwork, ...). This spell can do 8 hours of appropriate crafting with stone or metal in the full 10 round duration. 8 hours of crafting can be hurried to less than 10 rounds to a minimum of 1 round by adding 5 to the craft DC for every skipped round. This effectively enables an entire day of crafting to be done in 5 rounds with a craft DC increase of +25, or *instantly* with a craft DC increase of +50.
+Metalshape functions as 10 consecutive rounds of stoneshape. It can also modify metal by dividing the amount shaped by 10. The spell can create fine details, including fine moving parts, contingent on an appropriate craft check (blacksmithing, sculpture, stonework, clockwork, ...). This spell can do 8 hours of appropriate crafting with stone or metal in the full 10 round duration. 8 hours of crafting can be hurried to less than 10 rounds to a minimum of 1 round by adding 5 to the craft DC for every skipped round. This effectively enables an entire day of crafting to be done in 5 rounds with a craft DC increase of +25, or practically instantly with a craft DC increase of +50.
 
 ---
 ## Tenacious Enigma
@@ -206,3 +238,81 @@ Enables the caster to 'see' the path of teleportation spells, and latch onto a s
 **Duration** 1 day per level (D)
 ### Description
 Reality Obfuscation enchants a subject, an area (5ft-per-level radius sphere) or inanimate object, such that the object, or all objects and characters inside, are un-scryable by magical means. Divination spells made to discern anything inside the field will automatically fail. People who have interacted with the subject, object, or spent time in the field must succeed in a will save or be unable to directly mention the target subject/object(s) while the spell is active. The effect preventing free-expression-of-thought is similar to an attack blocked by a Sanctuary spell. At the end of the spell's duration, anyone familiar with the object, who was not specifically excluded at the time of original casting, must roll a will-save, or permanently lose one step of familiarity with the subject/object(s) (See levels of the Teleport spell table, or 5 DC of the Scrying table). The duration of the spell can be set to less than it's maximum duration on casting.
+
+---
+<img src="https://www.gmbinder.com/images/wrZKk9O.png">
+
+# Primal Spells
+
+---
+## Interrootwork
+**School** Divination; **Level** druid 4
+### Casting
+**Casting Time** 1 round
+**Components** V, S
+### Effect
+**Range** personal
+**Target** a network of plants
+**Duration** Concentration up to 1 minute per caster level
+### Description
+The caster can channel senses (sight/sound/smell) through plants, and jump a sensor from plant to plant, using physically connected roots or foliage in line of sight. The travelling sensor can move along plants at 1km per level per round, 1m per level per round, or 1 cm per level per round. Perception DCs increased by +1 per 100*casterlevel meters.
+
+---
+## Change Race, Minor
+**School** Transmutation; **Level** druid 6
+### Casting
+**Casting Time** 1 minute
+**Components** V, S, M (500 gp diamond dust) (D)
+### Effect
+**Range** touch
+**Target** one friendly creature
+**Save** Fortitude partial
+**Spell Resistance** Yes
+**Duration** days per caster level
+### Description
+The caster starts a biological process that morphs the target into a different sub-race of their same species, which takes 1 hour to complete. After the spell's duration, the target spends 1 hour involuntarily morphing back into their original form. This spell can instead be made permanent with a permanency spell. The target loses any racial bonuses and penalties of their old race, and gains racial penalties and bonuses of their new race. Age is transfered biologically proportional rather chronologically proportional. If the target attempts a fortitude save against the spell and succeeds, they are nauseated for one round. This spell can also be used to change the target into a yet-unknown subrace, with a skin color of choice, as well as other cosmetic differences (non cosmetic racial traits must be validated with the game master). Durable cosmetic changes (like different eye/nose/ear shape, hair type, body shape) can be used to give a +5 to disguise checks.
+
+---
+## Change Race, Lesser
+**School** Transmutation; **Level** druid 7
+### Casting
+**Casting Time** 1 minute
+**Components** V, S, M (blood or other life-essence of target race, 1,000 gp diamond dust) (D)
+### Effect
+**Range** touch
+**Target** one friendly creature
+**Save** Fortitude partial
+**Spell Resistance** Yes
+**Duration** days per caster level
+### Description
+The caster starts a biological process that morphs the target into a different race, which takes 1 hour to complete. After the spell's duration, the target spends 1 hour involuntarily morphing back into their original form. This spell can instead be made permanent with a permanency spell at the standard cost of 7th level spells. The target loses any racial bonuses and penalties of their old race, and gains racial penalties and bonuses of their new race. Age is transfered biologically proportional rather chronologically proportional. If the target attempts a fortitude save against the spell and succeeds, they are nauseated for one round.
+
+---
+## Change Race
+**School** Transmutation; **Level** druid 8
+### Casting
+**Casting Time** 1 minute
+**Components** V, S, M (optionally blood or other life-essence of target race, 5,000 gp diamond dust) (D)
+### Effect
+**Range** touch
+**Target** one friendly creature
+**Save** Fortitude partial
+**Spell Resistance** Yes
+**Duration** days per caster level or instantaneous (D)
+### Description
+As Lesser Change Race, except it can be cast without sample blood/essance, which prevents racial bonus and penalty effects from taking effect. Also, the target spends only one full round involuntarily morphing between races at the beginning and end of the spell duration. If cast with blood/essence, this spell can be made permanent with a permanancy spell at half the normal cost of 8th level spells.
+
+---
+## Change Race, Greater
+**School** Transmutation; **Level** druid 9
+### Casting
+**Casting Time** 1 action
+**Components** V, S, M (blood or other life-essence of target race, 10,000 gp diamond dust)
+### Effect
+**Range** touch
+**Target** one creature
+**Save** Fortitude partial
+**Duration** instantaneous
+**Spell Resistance** Yes
+### Description
+Instantly and permanently transform target into a new race, as Change Race. If the target attempts a fortitude save against the spell and succeeds, they are instead nauseated for one round.
