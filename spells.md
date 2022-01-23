@@ -104,7 +104,7 @@ https://www.d20pfsrd.com/magic/all-spells/a/aura-of-cannibalism
 ### Description
 As Lesser Arudion, with the following additions:
 * If minimal in size: 5 hitpoints. Additional hitpoints and hardness are up to GM discretion.
-* Can be made permanent as if it were a level 1 spell
+* Can be made permanent as if it were a level 1 spell, though a permanent device requires some form of power (e.g.: a light source nearby, heat, absorbing a spell level every few days, proximity to a sentient mind, or similar sources of loose energy)
 * Linked range augmentation from the Lesser Arudion, typically measured in feet, is measured in miles instead. In addition, more complex messages can be sent with additional lag:
 1 minute - a second of clearly audible sound
 10 minutes - a second of audible sound transmitted secretly
