@@ -1,4 +1,4 @@
-<img src="https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0934/1471/Golden-Runes2_shop_thumb.png">
+<img src="https://static.wikia.nocookie.net/eterniaroleplay/images/0/08/Arcane_circle_by_bermuda3-d5isr67.png/revision/latest?cb=20140808040206">
 
 # Arcane Spells
 
