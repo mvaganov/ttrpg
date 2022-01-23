@@ -4,7 +4,7 @@
 
 ---
 ## Arudion, Lesser
-**School** Necromancy; **Level** magus 1, sorcerer/wizard 1
+**School** Necromancy; **Level** magus 1, sorcerer/wizard 1, witch 1
 ### Casting
 **Casting Time** 1 minute
 **Components** V, S, M (a small rigid non-metal and inanimate object, life-essence of a living creature like blood/sweat/tears, 1 gold coin, see text)
@@ -33,7 +33,7 @@ A finished Arudion made of minimal materials has 1 hitpoint, and ceases to funct
 
 ---
 ## Analyze Spell Cast
-**School** Divination; **Level** bard 1, sorcerer/wizard 1
+**School** Divination; **Level** bard 1, sorcerer/wizard 1, witch 1
 ### Casting
 **Casting Time** standard action
 **Components** V, S, M (1 gp diamond dust)
@@ -47,7 +47,7 @@ Analyze Spell Cast Determines the spell level of a persistent spell (within 1d4 
 
 ---
 ## Data Breach
-**School** Divination; **Level** bard 2, sorcerer/wizard 2
+**School** Divination; **Level** bard 2, sorcerer/wizard 2, witch 2
 ### Casting
 **Casting Time** 1 minute
 **Components** V, S, M (1 gp diamond dust)
@@ -61,7 +61,7 @@ Creates a 'divination hole' emminating from a finger-print sized portion of the 
 
 ---
 ## Arcane Collaboration
-**School** Abjuration; **Level** bard 2, magus 2, sorcerer/wizard 2
+**School** Abjuration; **Level** bard 2, magus 2, sorcerer/wizard 2, witch 2
 ### Casting
 **Casting Time** 10 minutes
 **Components** V, S
@@ -93,7 +93,7 @@ https://www.d20pfsrd.com/magic/all-spells/a/aura-of-cannibalism
 
 ---
 ## Arudion
-**School** Necromancy; **Level** bard 3, magus 3, sorcerer/wizard 3
+**School** Necromancy; **Level** bard 3, magus 3, sorcerer/wizard 3, witch 3
 ### Casting
 **Casting Time** 10 minutes
 **Components** V, S, M (a small rigid non-metal and inanimate object, life-essence of a living creature, and 5 gold coins, see text)
@@ -122,7 +122,7 @@ https://www.d20pfsrd.com/magic/all-spells/c/contingent-action
 
 ---
 ## Detect Dimensional Wake
-**School** Divination; **Level** bard 3, magus 3, sorcerer/wizard 3
+**School** Divination; **Level** bard 3, magus 3, sorcerer/wizard 3, witch 3
 ### Casting
 **Casting Time** 1 round
 **Components** V, S
@@ -135,7 +135,7 @@ Detect Dimensional Wake can determine what direction a teleport, dimension-door,
 
 ---
 ## Area Channel
-**School** Transmutation; **Level** bard 4, sorcerer/wizard 4
+**School** Transmutation; **Level** sorcerer/wizard 4
 ### Casting
 **Casting Time** 1 minute per 5ft (D)
 **Components** V, S, MF (Metal 1-inch diameter "channeling pipes")
@@ -148,7 +148,7 @@ Area Channel uses metal Chanelling Pipes to change the shape of an area-of-effec
 
 ---
 ## Teleportation Trace
-**School** Divination; **Level** bard 4, sorcerer/wizard 5
+**School** Divination; **Level** bard 4, sorcerer/wizard 5, witch 5
 ### Casting
 **Casting Time** 1 round
 **Components** V, S, M (a stone, coin, or other small rigid and inanimate object)
@@ -161,7 +161,7 @@ Teleportation Trace allows the caster to monitor teleporations in close range fo
 
 ---
 ## Interdiction Field
-**School** Conjuration; **Level** sorcerer/wizard 5
+**School** Conjuration; **Level** sorcerer/wizard 5, witch 5
 ### Casting
 **Casting Time** 10 minutes
 **Components** V, S, M (4ft of fine thread per ft^2 of target area)
@@ -189,7 +189,7 @@ Metalshape functions as 10 consecutive rounds of stoneshape. It can also modify 
 
 ---
 ## Tenacious Enigma
-**School** Abjuration; **Level** sorcerer/wizard 7
+**School** Abjuration; **Level** sorcerer/wizard 7, witch 7
 ### Casting
 **Casting Time** standard action
 **Components** V, S
@@ -202,7 +202,7 @@ Tenacious Enigma automatically re-applies a duration spell X number of times in 
 
 ---
 ## Falsify Legend Lore
-**School** Illusion; **Level** sorcerer/wizard 7
+**School** Illusion; **Level** sorcerer/wizard 7, witch 7
 ### Casting
 **Casting Time** 10 minutes
 **Components** V, S, M (a stone, coin, or other small rigid and inanimate object)
@@ -228,7 +228,7 @@ Enables the caster to 'see' the path of teleportation spells, and latch onto a s
 
 ---
 ## Reality Obfuscation
-**School** Abjuration; **Level** sorcerer/wizard 9
+**School** Abjuration; **Level** sorcerer/wizard 9, witch 9
 ### Casting
 **Casting Time** 1 minute
 **Components** V, S
@@ -246,7 +246,7 @@ Reality Obfuscation enchants a subject, an area (5ft-per-level radius sphere) or
 
 ---
 ## Interrootwork
-**School** Divination; **Level** druid 4
+**School** Divination; **Level** druid 4, witch 4
 ### Casting
 **Casting Time** 1 round
 **Components** V, S
@@ -259,7 +259,7 @@ The caster can channel senses (sight/sound/smell) through plants, and jump a sen
 
 ---
 ## Change Race, Minor
-**School** Transmutation; **Level** druid 6
+**School** Transmutation; **Level** druid 6, witch 6
 ### Casting
 **Casting Time** 1 minute
 **Components** V, S, M (500 gp diamond dust) (D)
@@ -274,7 +274,7 @@ The caster starts a biological process that morphs the target into a different s
 
 ---
 ## Change Race, Lesser
-**School** Transmutation; **Level** druid 7
+**School** Transmutation; **Level** druid 7, witch 7
 ### Casting
 **Casting Time** 1 minute
 **Components** V, S, M (blood or other life-essence of target race, 1,000 gp diamond dust) (D)
@@ -289,7 +289,7 @@ The caster starts a biological process that morphs the target into a different r
 
 ---
 ## Change Race
-**School** Transmutation; **Level** druid 8
+**School** Transmutation; **Level** druid 8, witch 8
 ### Casting
 **Casting Time** 1 minute
 **Components** V, S, M (optionally blood or other life-essence of target race, 5,000 gp diamond dust) (D)
@@ -304,7 +304,7 @@ As Lesser Change Race, except it can be cast without sample blood/essance, which
 
 ---
 ## Change Race, Greater
-**School** Transmutation; **Level** druid 9
+**School** Transmutation; **Level** druid 9, witch 9
 ### Casting
 **Casting Time** 1 action
 **Components** V, S, M (blood or other life-essence of target race, 10,000 gp diamond dust)
