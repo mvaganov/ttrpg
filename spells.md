@@ -266,7 +266,7 @@ Teleportation Trace allows the caster to monitor teleporations in close range fo
 ### Description
 Interdiction Field creates an invisible latice that blocks teleportation as the spell Dimensional Anchor. When the spell is cast, the area is identified, and strands of fine thread provided by the caster weave telekenetically into the area. Upon completion, the threads vaporize, and form barriers in adjacent planes (ethereal, shadow, astral) along the same path. For the duration of the spell, any teleportation or extra-planar travel through the Interdiction Field is halted, and the traveller is prevented from moving, or shunted to the nearest empty area on the same side of the barrier.
 
-Ordinarily the duration of the effect is one hour per level, but duration is doubled if in an area of flowing water, flowing air, metal pipes, or metal bars.
+Ordinarily the duration of the effect is one hour per level, but duration is doubled if in a constructed area of flowing water, flowing air, metal pipes, metal bars, a wall of force, or other similar intentional structures.
 
 ---
 ## Metalshape
