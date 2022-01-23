@@ -38,7 +38,7 @@ instant - the presence or absence of *any* message from *any* Arudion can be det
 1 minute - transmitting the equivalent of 1 word wirelessly in a way that is difficult for any arudion that is not the intended recipient to detect
 Conditions may arise that add additional time cost to messaging per GM discretion.
 
-A finished Arudion made of minimal materials has 1 hitpoint, and ceases to function after it loses that hitpoint from damage. Additional hitpoints are determined by materials used, crafting skill, and GM discretion. An Arudion can be made permanent with Permenancy. An expired (but not destroyed or broken) Arudion whose duration has finished can have it's duration restarted by casting Lesser Arudion into it, ignoring the initial material component costs.
+A finished Arudion made of minimal materials has 1 hitpoint, and ceases to function after it loses that hitpoint from damage. Additional hitpoints are determined by materials used, crafting skill, and GM discretion. An Arudion can be made permanent with Permenancy for 2,500gp. An expired (but not destroyed or broken) Arudion whose duration has finished can have it's duration restarted by casting Lesser Arudion into it, ignoring the initial material component costs.
 
 ---
 ## Analyze Spell Cast
@@ -162,7 +162,7 @@ https://www.d20pfsrd.com/magic/all-spells/a/aura-of-cannibalism
 ### Description
 As Lesser Arudion, with the following additions:
 * If minimal in size: 5 hitpoints. Additional hitpoints and hardness are up to GM discretion.
-* Can be made permanent as if it were a level 1 spell, though a permanent device requires some form of power (e.g.: a light source nearby, heat, absorbing a spell level every few days, proximity to a sentient mind, or similar sources of loose energy)
+* Can be made permanent as if it were Lesser Arudion, though a permanent device requires some form of power (e.g.: a light source nearby, heat, absorbing a spell level every few days, proximity to a sentient mind, or similar sources of loose energy)
 * Linked range augmentation from the Lesser Arudion, typically measured in feet, is measured in miles instead. In addition, more complex messages can be sent with additional lag:
 1 minute - a second of clearly audible sound
 10 minutes - a second of audible sound transmitted secretly
@@ -264,9 +264,9 @@ Teleportation Trace allows the caster to monitor teleporations in close range fo
 **Duration** 1 hour per level (D)
 
 ### Description
-Interdiction Field creates an invisible latice that blocks teleportation as the spell Dimensional Anchor. When the spell is cast, the area is identified, and strands of fine thread provided by the caster weave telekenetically into the area. Upon completion, the threads vaporize, and form barriers in adjacent planes (ethereal, shadow, astral) along the same path. For the duration of the spell, any teleportation or extra-planar travel through the Interdiction Field is halted, and the traveller is prevented from moving, or shunted to the nearest empty area on the same side of the barrier.
+Interdiction Field creates an invisible latice that blocks teleportation as the spell Dimensional Anchor. When the spell is cast, the area is identified, and strands of fine thread provided by the caster weave telekenetically into the area. Upon completion, the threads vaporize, and form barriers in adjacent planes (ethereal, shadow, astral) along the same path. For the duration of the spell, any teleportation or extra-planar travel through the Interdiction Field is halted, and the traveller is prevented from moving, or shunted to the nearest empty area on the same side of the barrier. Permanently extra-planar creatures, such as ghosts, can squeeze through the barrier. This spell can be made permanent with Permanency for 2,500 gp.
 
-Ordinarily the duration of the effect is one hour per level, but duration is doubled if in a constructed area of flowing water, flowing air, metal pipes, metal bars, a wall of force, or other similar intentional structures.
+Ordinarily the duration of the effect is one hour per level, but duration is doubled if cast in reliably flowing water, flowing air, metal pipes, metal bars, a wall of force, or other similar intentional structures. The Interdiction Field becomes dependent on the intentional structure, and can be broken or repaired along with the structure. An Interdiction Field of this kind can be made permanent with Permanency at twice the target area.
 
 ---
 ## Metalshape
@@ -289,6 +289,34 @@ Ordinarily the duration of the effect is one hour per level, but duration is dou
 
 ### Description
 Metalshape functions as 10 consecutive rounds of stoneshape. It can also modify metal by dividing the amount shaped by 10. The spell can create fine details, including fine moving parts, contingent on an appropriate craft check (blacksmithing, sculpture, stonework, clockwork, ...). This spell can do 8 hours of appropriate crafting with stone or metal in the full 10 round duration. 8 hours of crafting can be hurried to less than 10 rounds to a minimum of 1 round by adding 5 to the craft DC for every skipped round. This effectively enables an entire day of crafting to be done in 5 rounds with a craft DC increase of +25, or practically instantly with a craft DC increase of +50.
+
+---
+## Violent Interdiction Field
+
+**School** Conjuration; **Level** sorcerer/wizard 7
+
+### Casting
+
+**Casting Time** 10 minutes
+
+**Components** V, S, M (4ft of fine thread per ft^2 of target area)
+
+### Effect
+
+**Range** personal, touch, close (25 ft. + 5 ft./level)
+
+**Effect** wall of ethereal whirling blades, or a ringed wall of whirling blades with a radius of up to 5 ft. per two levels
+
+**Target** 100 ft^2 + 10 ft^2 per level
+
+**Duration** 1 hour per level (D)
+
+**Saving Throw**  Reflex half or Reflex negates
+
+**Spell Resistance** yes
+
+### Description
+Similar to a Blade Barrier spell, any Ethereal/Shadow/Astral creature passing through the Violent Interdiction Field takes 1d6 points of damage per caster level (maximum 15d6), with a Reflex save for half damage. Teleporting creatures who make their Reflex save can choose to halt their teleportation at the Violent Interdiction Field instead of passing through it for half damage. Can be made permanent as Violent Interdiction, at a cost of 7,000gp.
 
 ---
 ## Tenacious Enigma
@@ -429,7 +457,7 @@ The caster can channel senses (sight/sound/smell) through plants, and jump a sen
 **Duration** days per caster level
 
 ### Description
-The caster starts a biological process that morphs the target into a different sub-race of their same species, which takes 1 hour to complete. After the spell's duration, the target spends 1 hour involuntarily morphing back into their original form. This spell can instead be made permanent with a permanency spell. The target loses any racial bonuses and penalties of their old race, and gains racial penalties and bonuses of their new race. Age is transfered biologically proportional rather chronologically proportional. If the target attempts a fortitude save against the spell and succeeds, they are nauseated for one round. This spell can also be used to change the target into a yet-unknown subrace, with a skin color of choice, as well as other cosmetic differences (non cosmetic racial traits must be validated with the game master). Durable cosmetic changes (like different eye/nose/ear shape, hair type, body shape) can be used to give a +5 to disguise checks.
+The caster starts a biological process that morphs the target into a different sub-race of their same species, which takes 1 hour to complete. After the spell's duration, the target spends 1 hour involuntarily morphing back into their original form. This spell can instead be made permanent with a permanency spell for 7,500gp. The target loses any racial bonuses and penalties of their old race, and gains racial penalties and bonuses of their new race. Age is transfered biologically proportional rather chronologically proportional. If the target attempts a fortitude save against the spell and succeeds, they are nauseated for one round. This spell can also be used to change the target into a yet-unknown subrace, with a skin color of choice, as well as other cosmetic differences (non cosmetic racial traits must be validated with the game master). Durable cosmetic changes (like different eye/nose/ear shape, hair type, body shape) can be used to give a +5 to disguise checks.
 
 ---
 ## Change Race, Lesser
@@ -455,7 +483,7 @@ The caster starts a biological process that morphs the target into a different s
 **Duration** days per caster level
 
 ### Description
-The caster starts a biological process that morphs the target into a different race, which takes 1 hour to complete. After the spell's duration, the target spends 1 hour involuntarily morphing back into their original form. This spell can instead be made permanent with a permanency spell at the standard cost of 7th level spells. The target loses any racial bonuses and penalties of their old race, and gains racial penalties and bonuses of their new race. Any racial bonuses that are choice-dependent must resolve during the involuntary morph. Age is transfered biologically proportional rather chronologically proportional. If the target attempts a fortitude save against the spell and succeeds, they are nauseated for one round.
+The caster starts a biological process that morphs the target into a different race, which takes 1 hour to complete. After the spell's duration, the target spends 1 hour involuntarily morphing back into their original form. This spell can instead be made permanent with a permanency spell for 7,500gp. The target loses any racial bonuses and penalties of their old race, and gains racial penalties and bonuses of their new race. Any racial bonuses that are choice-dependent must resolve during the involuntary morph. Age is transfered biologically proportional rather chronologically proportional. If the target attempts a fortitude save against the spell and succeeds, they are nauseated for one round.
 
 ---
 ## Change Race
@@ -481,7 +509,7 @@ The caster starts a biological process that morphs the target into a different r
 **Duration** days per caster level or instantaneous (D)
 
 ### Description
-As Lesser Change Race, except it can be cast without sample blood/essance, which prevents racial bonus and penalty effects from taking effect. Also, the target spends only one full round involuntarily morphing between races at the beginning and end of the spell duration. If cast with blood/essence, this spell can be made permanent with a permanancy spell at half the normal cost of 8th level spells.
+As Lesser Change Race, except it can be cast without sample blood/essance, which prevents racial bonus and penalty effects from taking effect. Also, the target spends only one full round involuntarily morphing between races at the beginning and end of the spell duration. If cast with blood/essence, this spell can be made permanent with a permanancy spell for 7,500gp.
 
 ---
 ## Change Race, Greater
