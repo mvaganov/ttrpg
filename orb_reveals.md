@@ -210,3 +210,88 @@ A hard-to-imagine feat of spellcraft (DC40) could be used to get the Soul Dream 
 >! `sense motive` DC40: he has things he wishes he could elaborate on, related to his present goals, but he won't out of a sense of duty and justice.
 
 **Cinerous**: ... And we're about done here.
+
+----
+
+**Future Liam** emerges, from a white heap, plopped out by the orb. He uncovers the glowing white blanket to reveal that he is a different race, with a brilliant glowing halo
+
+>! `knowelge planes` DC 20: an Aasimar, with a brilliant glowing halo
+
+>! `knowledge planes` DC30: Azata Blooded
+
+**Future Liam** stands up, checks and attends to his belongings. Everyone within 10ft of Future Liam starts regenerating, as per Fast Healing 1.
+
+>! `Perception` DC20: The first thing Liam did after pulling off the white blanket was thoughtfully wrap his soul orb in a magical cloth.
+
+>! `Perception` DC30: Cinerous is rummaging through his backpack. you can hear what sounds like marbles clinking against each other.
+
+**Future Liam**: I'm sorry everyone, celestial rules prohibit a lot of things. More hints about the future would be tremendous burdens on you. Cinerous, how many sensors?
+
+**Future Cinerous**: Imprecise state. Either eight or three, hard to tell.
+
+**Future Liam**: Well, let's hope it's not three.
+
+And with that, the two dimension-door away. Fast Healing 1 ceases. The soul orb gently hovers to the ground.
+
+---
+# Dromar's story
+
+**Dromar**:
+I was hatched Dromar'Ayfex, a silver dragon. My decent into evil has been unfortunate and tragic. I did heinous things that ostracized me from all metallic dragons, and tarnished me gray.
+
+I've realized that I must face my past. Vancient and Cinerous have made me recognize that unavoidable fact. To pay my debt to the universe, and dragon kind, please accept my aid, and a share of my burden. Please allow me to explain what I mean by this:
+
+For matured dragons, our best skills are done by proxy, and our redeeming acts of nobility must come through the acts of others on our behalf. Dragons will dismiss other races as lesser, though we cannot deny that we could also call you heroes. To achieve purity, I must find humility, and accept my own limitations at the mercy of mortals, who would be my heroes. If you refuse, and this redemption by proxy takes many years, decades, or longer, so be it. I have strayed from the old ways of dragon kind for too long, I must do this correctly now.
+
+As my first token of aid and humility, I offer you my treasure (Dromar looks notably distraught as he says those words), though it is smaller than you might expect. I also offer to hold the Soul Dream Device on your behalf. This offer is a greater gift than you may realize, as there are vicious laws on this world and beyond about artifacts of this kind which only dragons are exempt from. I humbly offer myself as a patron of an epic artifact, and a sheild from consequences of those related draconian laws.
+
+Would you entertain my humble request for redemption?
+
+* When I was a dragonling, it was hesitantly prophecized by the ancient monk, presumably the Heyori that Future Liam mentioned, that I would lose favor with dragonkind without strict religious instruction. The details of the story are not relevant now, but the outcome was correct: Heyori was right. His prophecy never mentioned redemption to my knowledge, but I will seek it out all the same.
+
+* That prophecy was hidden from me most of my life, and I did not learn of it till my young adulthood, when it was too late. As I was growing up, my elders told me to seek religious training, which I did. Unfortunately, I was deceived by a church of clerics who sought to corrupt me, and the entire village Neycourt, on the northern border of Sorren and Ellasor. They taught us infernal rituals, and sold the village-people's souls to devils in exchange for magical gifts. When it was time for me to be sacrificed, my draconic form was revealed. In a surprised rage, I killed many people there, including some of the clerics who sought to sacrifice me. I fled, fell in with a violent human gang, and tricked them into slaying the church, and most of the town who joined them. I even participated in the fight in my draconic form.
+
+* My youthful aid to evil was public, violent, and very unbecomming of a noble metallic dragon. I was outcast from my clutch, and afterward, I became more Chromatic. I lost my breath for many years, until I found it again as burning rage against the rules of this world.
+
+* After my exile, I went back to Neycourt, and gathered the forbidden knowledge of the cult that had tried to sacrifice me. That began my decent into forbidden knowledge. I travelled the world, seeking more similar cults, and usually slaying their leaders when it pleased me. I even visited the hells then. But mostly, I went to learn their forbidden knowledge. It was never evil I sought, but knowledge that had been withheld. That is what I told myself.
+
+* Eventually I found a necromantic cult within the House of Vecna. They welcomed me as a foreign researcher, and I worked with other brilliant minds, including several liches, other disguised dragons, at least one devil, and many brilliant humans, gnomes, elves, and dark elves.
+
+* We were probing dangerous arcane secrets, including the SoulDreamer, and ancient spells that were wiped from the collective memory of the world. They never let me see the soul orbs, but I knew of their use against others of my kind.
+
+* I stole some of their other treasures in the last days of the house of Vecna. The Deep Prophets have claimed most of what I once had, but this SoulDreamer, my last jewel, has remained mine. Until now. And it is an artifact far older than I could have gussed when I plucked it from the workshop. The orb is from the earliest days of sentient races on this world, when great heroes roamed a primeaval planet.
+
+* Since Vecna's fall, I've done terrible things. I have bargained with devils, betrayed my own kind, stolen from dragons and giants and so many mortals, taxed citizens of the four kingdoms at different times, captured and corrupted wizards, lured and eaten adventurers, enslaved many races in many communities, meddled in the politics of humans and elves, incited revolts and riots, kidnapped and ransomed royalty, experimented with raising undead, cloned myself and others, and many other smaller evils. For the sake of my own possible redemption, I offer my experience doing these things to you.
+
+* I also humbly ask that you could be my instruments in setting things right. If you would accept the offer to be my heroes, I offer you a special token, to keep connected with me, if you desire.
+
+>! Dromar will grant the party with 'the eye of Dromar', a marble-sized bead that allows Dromar to communicate with and scry on the party at will, so long as light touches the bead. The bead can roll on a level surface according to Dromar's wishes. Using the eye, they can communicate with Dromar as if he is there, and seek his advice.
+
+* Dromar will also ask the party to do quests to make-right the things that he deserves his worst punishments for.
+
+	* Elyssa, an elven maiden, is actually a magic-jarred vacation-spot, inhabited by a very ancient Great Wyrm red dragon (Nagyvox, 3000+ years old), who the Deep Prophets have agreed to entertain in some unknown bargain. The party needs to keep Elyssa safe, or risk waking Nagyvox from his slumber. Dromar took her to his Kobold kingdom in the underdark. There she is being worshipped as a queen, and is teaching the kobolds to create magic wands.
+		* Nagyvox is sharing her body. And while he dreams, her awareness is made heavy by the strain, and she lives in a dreamy haze as well. she is about as awake and aware as a sleepy human being, though incredible draconic magic courses through her.
+	* Take Dromar's soul orb, and Slay Dromar's clones. There are 3 gray dragon clones, each is guarded.
+		- the archivist of the menagerie in Sorren's capital. He has been gaes'd and cursed to look after the clone. Dromar visits him regularly. The archivist is a powerful spell caster, and he worships the clone, believing it will grant him eternal life, like a dragon.
+		- the necromancer, in the east (far south of Heyori's mountain keep)
+		- drow fighter's guild, deep in the underdark. Dromar's clone sleeps in a trap. it will awaken as a dracolich on the command of a dark-elven high priestess. Dromar has not yet dealt with that contingency.
+	* gather others for Dromar's lesser tasks that the party might not want to do themselves
+		- repairing villages. especially rebuilding a small town, Neycourt, in the northern part of Soren/Ellasor. They need a city hall or keep, and city wall. Dromar terrorized the town for a generation, using the chaos to recruit humans into his gangs.
+		- proper burials for two old towns with forgotten names, massacred by Dromar and his thugs, long after the massacer at Neycourt
+		- removal of spying devices in the capital cities of many kingdoms around the world
+		- letters of apology to the kings of the 4 kingdoms about the dozen politicians who have been blackmailed and manipulated.
+	* re-establish and aid a kobold kingdom in the underdark. he has kidnapped an entire generation of kobolds to be his slaves from it.
+	* slay 3 red dragons (Yongiae, Tsileud, Eireaf) that Dromar has mind-controlled, they have created another dungeon for Dromar with more kobold slaves (the Tomb of Annihilation https://scryfall.com/card/tafr/22/tomb-of-annihilation). The dungeon uses demonic magic to compell anyone who enters to discard their own valuables into portals that lead to Hell. There is a dangerous undead storm giant there. Use the treasure from the 3 red dragons dragons to reimburse Rokadifu, a fallen bronze dragon in Soren (who the party killed). Myojin is his elder and rightful heir.
+	* There are 10 large gems in the red dragon hoards that the party must return to Dromar, who must enchant the gems with a special draconic ritual. Those gems must then be delivered to a brass dragon, Phizor, in the desert lands to the south. Each stone represents a moment when Dromar foiled Phizor's plans and stole from him. Phizor will be able to use the stones to demand Dromar's aid in the future.
+	* seek the mercy of the gold-dragon king, Tamarand Isaac. to appease him, try to bring the civil war to a truce, and find some way to spread peace through the kingdoms. convince Tamarand Isaac that the frontier should be it's own country and left in peace, or convince Wen Transel to go back to statehood in the kingdoms. Either would
+	* go into Atalu, from the plane of Avernus, to slay a Nikaramasa Asura ( https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/asura/asura-nikaramsa/ ) named Ravander Who Laughs. Dromar encountered him in a far away land, and helped him destroy communities. He introduced dromar to contract devils, who dromar introduced to many more humans and elves. His death will mean the release of thousands of people on the other side of this world. If you can find his contract devils, please slay them as well, and destroy their contracts. That will free people under the strictest contracts.
+	* Dromar will ask you to speak on his behalf when he turns himself in to King Isaac, after at least half of these tasks have been started.
+
+**Dromar** I have hoarded forgotten and secret magic from ages long past. I grant it to you as a part of my hoard, and ask you use it for peace and justice. (full spell list here: https://github.com/mvaganov/ttrpg/blob/main/spells.md )
+
+**Dromar** Future Liam mentioned Heyori, an ancient monk, who lives in a secluded monestary keep on a mountain top. Please go to him and consult his prophecy about me (Dromar), to determine if the fate he has seen leaves room for his redemption. He is a clairvoyant, who can see parts of the past and the future if prompted with key information. He is reveared by metallic dragons. The peak his monestary is on lies nearly oposite the 4 kingdoms on the globe.
+
+---
+# Legend Lore on the SouldDreamer
+
+Lor Faer Gaud was crafted by a collection of Elven wizards many millenia ago. It was primarily designed by a wizard named Salimyrth, an artificer of unbeleivable ability, who was not native to Mellondor. The majority of the crafting was done by a "Soul Forger" named Echain'tamo Artamo, one of the first native-born elves of Mellondor, and a true master craftsman. This was in the time of heroes, when Mellondor was a comparitively dangerous world, full of abberant monsters. This Soul Dreamer was one of several that were created, though you can't discern the number of devices. It was primarily used by Echain to train and retrain other craftsmen. The SoulDreamer was locked in a secret stasis vault by Echain for untold thousands of years before being discovered by Giants under the direct control of dragons, who opened the vault by force. The orb was magically hidden, presumably by the dragons, and it's history is incredibly spotty for many thousands of years. It was in various treasure hoards, until it's magical obfuscations weakened enough to be unravelled by Dromar. Dromar has only experimented on one humanoid, a human monk, who the party had slain on their way to Dromar's lair.
