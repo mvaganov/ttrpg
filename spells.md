@@ -231,7 +231,7 @@ Area Channel uses metal Chanelling Pipes to change the shape of an area-of-effec
 
 **Casting Time** 1 round
 
-**Components** V, S, M (a stone, coin, or other small rigid and inanimate object)
+**Components** V, S
 
 ### Effect
 
@@ -349,7 +349,7 @@ Tenacious Enigma automatically re-applies a duration spell X number of times in 
 
 **Casting Time** 10 minutes
 
-**Components** V, S, M (a stone, coin, or other small rigid and inanimate object)
+**Components** V, S
 
 ### Effect
 
