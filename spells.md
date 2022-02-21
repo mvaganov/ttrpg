@@ -5,7 +5,7 @@
 ---
 ## Arudion, Lesser
 
-**School** Necromancy; **Level** magus 1, sorcerer/wizard 1, witch 1
+**School** Necromancy; **Level** magus 1, sorcerer/wizard 1, summoner 1, witch 1
 
 ### Casting
 
@@ -115,7 +115,7 @@ This spell allows the caster to share control of a spell to up to 1 + lvl/3 othe
 ---
 ## Mage Clamps
 
-**School** Transmutation; **Level** bard 2, magus 2, sorcerer/wizard 2
+**School** Transmutation; **Level** bard 2, magus 2, sorcerer/wizard 2, summoner 2
 
 ### Casting
 
@@ -143,7 +143,7 @@ https://www.d20pfsrd.com/magic/all-spells/a/aura-of-cannibalism
 ---
 ## Arudion
 
-**School** Necromancy; **Level** bard 3, magus 3, sorcerer/wizard 3, witch 3
+**School** Necromancy; **Level** bard 3, magus 3, sorcerer/wizard 3, summoner 3, witch 3
 
 ### Casting
 
@@ -203,7 +203,7 @@ Detect Dimensional Wake can determine what direction a teleport, dimension-door,
 ---
 ## Area Channel
 
-**School** Transmutation; **Level** sorcerer/wizard 4
+**School** Transmutation; **Level** sorcerer/wizard 4, summoner 4
 
 ### Casting
 
@@ -225,7 +225,7 @@ Area Channel uses metal Chanelling Pipes to change the shape of an area-of-effec
 ---
 ## Teleportation Trace
 
-**School** Divination; **Level** bard 4, sorcerer/wizard 5, witch 5
+**School** Divination; **Level** bard 4, sorcerer/wizard 5, summoner 4, witch 5
 
 ### Casting
 
@@ -247,7 +247,7 @@ Teleportation Trace allows the caster to monitor teleporations in close range fo
 ---
 ## Interdiction Field
 
-**School** Conjuration; **Level** sorcerer/wizard 5, witch 5
+**School** Conjuration; **Level** sorcerer/wizard 5, summoner 4, witch 5
 
 ### Casting
 
@@ -293,7 +293,7 @@ Metalshape functions as 10 consecutive rounds of stoneshape. It can also modify 
 ---
 ## Violent Interdiction Field
 
-**School** Conjuration; **Level** sorcerer/wizard 7
+**School** Conjuration; **Level** sorcerer/wizard 7, summoner 6
 
 ### Casting
 
@@ -365,7 +365,7 @@ Permenantly causes Legend Lore or any other lower-level divination spell to retu
 ---
 ## Teleport Interrogation
 
-**School** Conjuration; **Level** sorcerer/wizard 8
+**School** Conjuration; **Level** sorcerer/wizard 8, summoner 6
 
 ### casting
 
