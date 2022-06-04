@@ -343,11 +343,11 @@ Tenacious Enigma automatically re-applies a duration spell X number of times in 
 ---
 ## Falsify Legend Lore
 
-**School** Illusion; **Level** sorcerer/wizard 7, witch 7
+**School** Illusion; **Level** Bard 5, sorcerer/wizard 7, witch 7
 
 ### Casting
 
-**Casting Time** 10 minutes
+**Casting Time** See text
 
 **Components** V, S
 
@@ -357,10 +357,12 @@ Tenacious Enigma automatically re-applies a duration spell X number of times in 
 
 **Target** a subject
 
-**Duration** 1 hour per level (D)
+**Duration** Permanent
 
 ### Description
 Permenantly causes Legend Lore or any other lower-level divination spell to return false information and false histories about the subject. Can be dispelled with another Falsify Legend Lore, only if a notable piece of the true history is known.
+
+Casting this spell has similar requirements to Legend Lore. A bluff check is could be used to make the false legend seem as true as possible, though even if a false legend is disbelieved, the results of the Divination spell will not be improved.
 
 ---
 ## Teleport Interrogation
