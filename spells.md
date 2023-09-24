@@ -22,8 +22,10 @@
 **Duration** 1 hour per caster level (D)
 
 ### Description
-An Arudion is a rigid non-metal inanimate object (a pebble, piece of wood, stiff paper, ...), imbued with a shadow of life, which is enslaved into the rigid medium by magically etched gold runes. The Arudion is enchanted to do an action, or "programmed", by these runes during casting.
-A programmed Arudion can activated with a carefully worded contingency. Easily programmed contingencies include a command-word, a physical pressing or swiping, or activation of another specific Arudion.
+An Arudion is a rigid non-metal inanimate object (a pebble, piece of wood, stiff paper, ...), imbued with a shadow of life, which is enslaved into the rigid medium by magically etched gold runes. The Arudion is enchanted to do an action, or "programmed", by runes during casting.
+A programmed Arudion can be activated with a carefully worded contingency. Easily programmed contingencies include a command-word, a physical pressing or swiping, or activation of another specific Arudion.
+A common use of Arudions is to set up a different trigger for a non-Arudion magical item, which could otherwise be activated by a command word or single action Use Magic Device.
+
 A simple describable event can be used as a trigger, with failure chance at GM discretion. Arudions can be linked together during programming, which allows them trigger other physically or remotely linked Arudions up to a certain range. These triggers have a delay, or "lag", up to GM discretion.
 Arudion functionality can be augmented by including additional resources when crafting the spell:
 
