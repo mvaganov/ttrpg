@@ -64,7 +64,7 @@ A finished Arudion made of minimal materials has 1 hitpoint, and ceases to funct
 **Saving Throw** none; **Spell Resistance** no
 
 ### Description
-Analyze Spell Cast Determines the spell level of a persistent spell (within 1d4 levels), possibly the alignment of the caster, how long ago the spell was cast (by category: less than 1 minute, less than 1 day, less than one month, less than one year, or power-of-10 years). Works on magical items. Probably written by House of Vecna.
+Analyze Spell Cast Determines the spell level of a persistent spell (within 1d4 levels), possibly the alignment of the caster, how long ago the spell was cast (by category: less than 1 minute, less than 1 day, less than one month, less than one year, or power-of-10 years). Works on magical items.
 
 ---
 ## Data Breach
@@ -166,10 +166,10 @@ As Lesser Arudion, with the following additions:
 * If minimal in size: 5 hitpoints. Additional hitpoints and hardness are up to GM discretion.
 * Can be made permanent as if it were Lesser Arudion, though a permanent device requires some form of power (e.g.: a light source nearby, heat, absorbing a spell level every few days, proximity to a sentient mind, or similar sources of loose energy)
 * Linked range augmentation from the Lesser Arudion, typically measured in feet, is measured in miles instead. In addition, more complex messages can be sent with additional lag:
-1 minute - a second of clearly audible sound
-10 minutes - a second of audible sound transmitted secretly
-1 hour - a simple and clear image, as if drawn by hand
-10 hours - a simple and clear image, as if drawn by hand, transmitted secretly
+1 minute - a second of clearly audible sound, detectable by any another Arudion
+10 minutes - a second of audible sound transmitted secretly to a specific Arudion
+1 hour - a simple and clear image, as if drawn by hand, detectable by any another Arudion
+10 hours - a simple and clear image, as if drawn by hand, transmitted secretly to a specific Arudion
 * The Adurion can be triggered by a visible gesture (within line of sight) without fail (requires an additional gold coin)
 * The Arudion can be programmed to press itself with the force of a mage hand, allowing it to move (roll or slide) under its own power at 15 feet per round, as long as that motion would not cause the Arudion to levitate. A linked Arudion triggered from a distance can only apply 1 lb of force once per round, or roll the Arudion at 5ft per round. (requires a gem valued at 25gp or more). each round of movement subtracts one round from duration.
 * A linked Arudion can hear, very poorly, in real time, through another Arudion (add +10 circumstance penalty to hear through linked Arudions) requires a gem valued at 25gp or more.
@@ -318,7 +318,7 @@ Metalshape functions as 10 consecutive rounds of stoneshape. It can also modify 
 **Spell Resistance** yes
 
 ### Description
-Similar to a Blade Barrier spell, any Ethereal/Shadow/Astral creature passing through the Violent Interdiction Field takes 1d6 points of damage per caster level (maximum 15d6), with a Reflex save for half damage. Teleporting creatures who make their Reflex save can choose to halt their teleportation at the Violent Interdiction Field instead of passing through it for half damage. Can be made permanent as Violent Interdiction, at a cost of 7,000gp.
+Similar to a Blade Barrier spell, any Ethereal/Shadow/Astral creature passing through the Violent Interdiction Field takes 1d6 points of damage per caster level (maximum 15d6), with a Reflex save for half damage. Teleporting creatures who make their Reflex save can choose to halt their teleportation at the Violent Interdiction Field instead of passing through it for half damage. Violent Interdiction can be made permanent at a cost of 7,000gp.
 
 ---
 ## Tenacious Enigma
@@ -364,7 +364,7 @@ Tenacious Enigma automatically re-applies a duration spell X number of times in 
 ### Description
 Permenantly causes Legend Lore or any other lower-level divination spell to return false information and false histories about the subject. Can be dispelled with another Falsify Legend Lore, only if a notable piece of the true history is known.
 
-Casting this spell has similar requirements to Legend Lore. A bluff check is could be used to make the false legend seem as true as possible, though even if a false legend is disbelieved, the results of the Divination spell will not be improved.
+Casting this spell has similar requirements to Legend Lore. A bluff check is used to make the false legend seem as true as possible, though even if a false legend is disbelieved with a sufficient Sense Motive, the results of the Divination spell will not be improved.
 
 ---
 ## Teleport Interrogation
