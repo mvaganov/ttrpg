@@ -818,7 +818,7 @@ Watchers maintaining the path must survive the constant shifting and splitting r
 
 If travellers holding an Existence Shift path open do not make it back to the Existence Shift path before the spell duration is over, their path back will be lost, and only another casting and successful navigation of Existence Shift can bring travellers back to their starting point (or a similar reality).
 
-Some spirits and astral beings may be sensitive (notably Bythos: https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/aeon/aeon-bythos) to open portals through existence, so it is wise to use this spell as descretely as possible. Some of these beings may be invisible, or extremely difficult to detect.
+Some spirits and astral beings may be sensitive (notably [Bythos](https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/aeon/aeon-bythos)) to open portals through existence, so it is wise to use this spell as descretely as possible. Some of these beings may be invisible, or extremely difficult to detect.
 
 An astral spirit infiltrating an Existence Shift spell may be able to:
 * Emerge into the start or destination point of the Existence Shift
